@@ -83,4 +83,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 License
 This project is licensed under the [License Name] - see the LICENSE.md file for details.
 
+<<<<<<< HEAD
 Feel free to customize this README template to include specific details about your project, such as the chosen NLP framework or service and any additional features or functionalities you plan to implement. Providing clear and detailed documentation in your README file will help other developers understand and contribute to your project effectively.
+=======
+Feel free to customize this README template to include specific details about your project, such as the chosen NLP framework or service and any additional features or functionalities you plan to implement. Providing clear and detailed documentation in your README file will help other developers understand and contribute to your project effectively.
+>>>>>>> d45f8c17789d618bad130830cde08c24b23671c4
